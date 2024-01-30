@@ -3438,7 +3438,7 @@
   (no_connect (at 193.04 146.05) (uuid bb480fd5-a434-45b0-8a19-be136b1349af))
   (no_connect (at 107.95 135.89) (uuid ca0184c5-b8ce-4f23-93fb-31f40224b1c0))
   (no_connect (at 163.83 154.94) (uuid d5ed5fe9-2c29-4141-8e02-2ffb3b4608d8))
-  (no_connect (at 163.83 152.4) (uuid d5ed5fe9-2c29-4141-8e02-2ffb3b4608d9))
+  (no_connect (at 163.83 152.4) (uuid d5ed5fe9-2c29-4141-8e02-2ffb3b4608d8))
   (no_connect (at 33.02 29.21) (uuid d6aa4d12-2908-42c0-bae1-885aa30c9751))
   (no_connect (at 33.02 34.29) (uuid e5688ad2-f3fb-48d5-819d-320228e3dc0f))
   (no_connect (at 48.26 137.16) (uuid f62f7156-989e-4ac1-a331-30a0f575dd20))
@@ -8039,7 +8039,7 @@
     (in_bom yes) (on_board yes)
     (uuid e967af8e-7e39-40ba-8cbf-58ec76d7a34b)
     (property "Reference" "Q1" (id 0) (at 25.4 27.94 90))
-    (property "Value" "IRLML6402TR" (id 1) (at 29.21 19.05 90))
+    (property "Value" "VP0610T" (id 1) (at 29.21 19.05 90))
     (property "Footprint" "Package_TO_SOT_SMD:SOT-23" (id 2) (at 31.115 20.32 0)
       (effects (font (size 1.27 1.27) italic) (justify left) hide)
     )
@@ -8471,7 +8471,7 @@
       (reference "J14") (unit 1) (value "CAM") (footprint "Connector_PinSocket_2.54mm:PinSocket_2x09_P2.54mm_Vertical")
     )
     (path "/e967af8e-7e39-40ba-8cbf-58ec76d7a34b"
-      (reference "Q1") (unit 1) (value "IRLML6402TR") (footprint "Package_TO_SOT_SMD:SOT-23")
+      (reference "Q1") (unit 1) (value "VP0610T") (footprint "Package_TO_SOT_SMD:SOT-23")
     )
     (path "/8f39db17-4d47-4cf2-829d-283599ca7b46"
       (reference "Q2") (unit 1) (value "J3Y") (footprint "Package_TO_SOT_SMD:TSOT-23")
